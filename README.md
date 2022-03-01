@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @holdmysake!
-- 📝For now I am learning C# and soon Python
+- 📝 I am interested in C#, Python and also graphic design
 - 👀 My future plans are contributing to open-source projects and game developement
 - 📞 Contact me through Discord: xdsilnia#0943
 
