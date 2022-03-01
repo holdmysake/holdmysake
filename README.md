@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mathew/@holdmysake!
-- 👀 I am interested in C#, Python, game developement(Unity) and graphic design
+- 👀 I am interested in learning C#, Python and SQL
+- ⌛ In my free time I like to mess with Unity and Photoshop
 - 📝 My plan for nearest 6 months is to develop myself and my profile here
 - 📞 Contact me through Discord: xdsilnia#0943
 
