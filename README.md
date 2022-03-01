@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @holdmysake!
-- 📝 I am interested in C#, Python and also graphic design
-- 👀 My future plans are contributing to open-source projects and game developement
+- 👋 Hi, I’m Mathew/@holdmysake!
+- 👀 I am interested in C#, Python, game developement(Unity) and graphic design
+- 📝 My plan for nearest 6 months is to develop myself and my profile here
 - 📞 Contact me through Discord: xdsilnia#0943
 
 <!---
